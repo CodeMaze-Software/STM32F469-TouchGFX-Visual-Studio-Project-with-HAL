@@ -1,0 +1,225 @@
+<File>
+  <FileName>FrontendApplication.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/common/frontendapplication.cpp</FilePath>
+</File>
+<File>
+  <FileName>Model.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/model/model.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen1Presenter.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen1_screen/screen1presenter.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen1View.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen1_screen/screen1view.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen2Presenter.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen2_screen/screen2presenter.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen2View.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen2_screen/screen2view.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen3Presenter.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen3_screen/screen3presenter.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen3View.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen3_screen/screen3view.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen4Presenter.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen4_screen/screen4presenter.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen4View.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen4_screen/screen4view.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen5Presenter.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen5_screen/screen5presenter.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen5View.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../gui/src/screen5_screen/screen5view.cpp</FilePath>
+</File>
+<File>
+  <FileName>a2.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/a2.cpp</FilePath>
+</File>
+<File>
+  <FileName>a3.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/a3.cpp</FilePath>
+</File>
+<File>
+  <FileName>abc.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/abc.cpp</FilePath>
+</File>
+<File>
+  <FileName>ApplicationFontProvider.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/applicationfontprovider.cpp</FilePath>
+</File>
+<File>
+  <FileName>BitmapDatabase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/bitmapdatabase.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_buttons_round_edge_small.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_buttons_round_edge_small.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_buttons_round_edge_small_pressed.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_buttons_round_edge_small_pressed.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_icons_down_arrow_48.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_icons_down_arrow_48.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_icons_home_48.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_icons_home_48.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_icons_power_48.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_icons_power_48.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_icons_up_arrow_48.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_icons_up_arrow_48.cpp</FilePath>
+</File>
+<File>
+  <FileName>Font_lucon_TTF_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/font_lucon_ttf_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Font_verdana_115_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/font_verdana_115_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Font_verdana_20_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/font_verdana_20_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Font_verdana_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/font_verdana_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>FontGetters.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/fontgetters.cpp</FilePath>
+</File>
+<File>
+  <FileName>FrontendApplicationBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/common/frontendapplicationbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Kerning_lucon_TTF_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/kerning_lucon_ttf_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Kerning_verdana_115_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/kerning_verdana_115_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Kerning_verdana_20_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/kerning_verdana_20_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Kerning_verdana_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/kerning_verdana_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>LanguageGb.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/texts/src/languagegb.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen1ViewBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/screen1_screen/screen1viewbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen2ViewBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/screen2_screen/screen2viewbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen3ViewBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/screen3_screen/screen3viewbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen4ViewBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/screen4_screen/screen4viewbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Screen5ViewBase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/gui_generated/src/screen5_screen/screen5viewbase.cpp</FilePath>
+</File>
+<File>
+  <FileName>Table_lucon_TTF_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/table_lucon_ttf_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Table_verdana_115_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/table_verdana_115_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Table_verdana_20_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/table_verdana_20_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Table_verdana_23_4bpp.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/fonts/src/table_verdana_23_4bpp.cpp</FilePath>
+</File>
+<File>
+  <FileName>Texts.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/texts/src/texts.cpp</FilePath>
+</File>
+<File>
+  <FileName>TypedTextDatabase.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/texts/src/typedtextdatabase.cpp</FilePath>
+</File>

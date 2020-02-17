@@ -1,0 +1,141 @@
+Converting images
+Compiling gui/src/screen1_screen/Screen1View.cpp
+Compiling gui/src/model/Model.cpp
+In file included from target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:47:0,
+                 from target/bsp/include/stm32f4xx_hal_conf.h:242,
+                 from target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal.h:48,
+                 from gui/include/gui/model/Model.hpp:9,
+                 from gui/src/model/Model.cpp:1:
+gui/src/model/Model.cpp: In member function 'void Model::uartInit()':
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:545:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:49:2: note: in expansion of macro '__HAL_RCC_USART6_CLK_ENABLE'
+  __HAL_RCC_USART6_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:784:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:50:2: note: in expansion of macro '__HAL_RCC_GPIOG_CLK_ENABLE'
+  __HAL_RCC_GPIOG_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+gui/src/model/Model.cpp: In member function 'void Model::gpioInit(GPIO_TypeDef*, uint16_t, uint16_t)':
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:763:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:85:2: note: in expansion of macro '__HAL_RCC_GPIOE_CLK_ENABLE'
+  __HAL_RCC_GPIOE_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:784:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:86:2: note: in expansion of macro '__HAL_RCC_GPIOG_CLK_ENABLE'
+  __HAL_RCC_GPIOG_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:409:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:87:2: note: in expansion of macro '__HAL_RCC_GPIOB_CLK_ENABLE'
+  __HAL_RCC_GPIOB_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:416:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:88:2: note: in expansion of macro '__HAL_RCC_GPIOC_CLK_ENABLE'
+  __HAL_RCC_GPIOC_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:402:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:89:2: note: in expansion of macro '__HAL_RCC_GPIOA_CLK_ENABLE'
+  __HAL_RCC_GPIOA_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:756:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:90:2: note: in expansion of macro '__HAL_RCC_GPIOD_CLK_ENABLE'
+  __HAL_RCC_GPIOD_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:770:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:91:2: note: in expansion of macro '__HAL_RCC_GPIOI_CLK_ENABLE'
+  __HAL_RCC_GPIOI_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:777:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:92:2: note: in expansion of macro '__HAL_RCC_GPIOF_CLK_ENABLE'
+  __HAL_RCC_GPIOF_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:798:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:93:2: note: in expansion of macro '__HAL_RCC_GPIOK_CLK_ENABLE'
+  __HAL_RCC_GPIOK_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.h:423:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:94:2: note: in expansion of macro '__HAL_RCC_GPIOH_CLK_ENABLE'
+  __HAL_RCC_GPIOH_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.h:791:48: warning: conversion to void will not access object of type 'volatile uint32_t {aka volatile long unsigned int}'
+                                         UNUSED(tmpreg); \
+                                                 
+target/bsp/include/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_def.h:86:27: note: in definition of macro 'UNUSED'
+ #define UNUSED(x) ((void)(x))
+                           ^
+gui/src/model/Model.cpp:95:2: note: in expansion of macro '__HAL_RCC_GPIOJ_CLK_ENABLE'
+  __HAL_RCC_GPIOJ_CLK_ENABLE();
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+gui/src/screen1_screen/Screen1View.cpp: In member function 'virtual void Screen1View::button1_clicked()':
+gui/src/screen1_screen/Screen1View.cpp:41:15: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  char* data = "Button1\r\n";
+               ^~~~~~~~~~~~~
+gui/src/screen1_screen/Screen1View.cpp: In member function 'virtual void Screen1View::button2_clicked()':
+gui/src/screen1_screen/Screen1View.cpp:65:15: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  char* data = "Button2\r\n";
+               ^~~~~~~~~~~~~
+Linking build/bin/target.elf
+Producing additional output formats...
+  target.hex   - Combined internal+external hex
+  intflash.elf - Internal flash, elf debug
+  intflash.hex - Internal flash, hex
+  extflash.bin - External flash, binary

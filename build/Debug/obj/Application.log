@@ -1,0 +1,37 @@
+﻿  Using ImageConvert to generate BitmapDatabase files
+  Creating compile items for all generated source files: ..\..\generated\fonts\src\ApplicationFontProvider.cpp;..\..\generated\fonts\src\FontGetters.cpp;..\..\generated\fonts\src\Font_verdana_10_4bpp.cpp;..\..\generated\fonts\src\Font_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Font_verdana_40_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_10_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_40_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_10_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_40_4bpp.cpp;..\..\generated\images\src\BitmapDatabase.cpp;..\..\generated\texts\src\Texts.cpp;..\..\generated\texts\src\TypedTextDatabase.cpp
+  SDL2TouchController.cpp
+  HALSDL2.cpp
+  HALSDL2_icon.cpp
+  OSWrappers.cpp
+  main.cpp
+  FrontendApplication.cpp
+  FrontendApplicationBase.cpp
+  Screen1Presenter.cpp
+  Screen1View.cpp
+  Screen1ViewBase.cpp
+  Model.cpp
+  Screen2Presenter.cpp
+  Screen2View.cpp
+  Screen2ViewBase.cpp
+  Screen3Presenter.cpp
+  Screen3View.cpp
+  Screen3ViewBase.cpp
+  Screen4Presenter.cpp
+  Screen4View.cpp
+  Screen4ViewBase.cpp
+  ApplicationFontProvider.cpp
+  FontGetters.cpp
+  Font_verdana_10_4bpp.cpp
+  Font_verdana_20_4bpp.cpp
+  Font_verdana_40_4bpp.cpp
+  Kerning_verdana_10_4bpp.cpp
+  Kerning_verdana_20_4bpp.cpp
+  Kerning_verdana_40_4bpp.cpp
+  Table_verdana_10_4bpp.cpp
+  Table_verdana_20_4bpp.cpp
+  Table_verdana_40_4bpp.cpp
+  BitmapDatabase.cpp
+  Texts.cpp
+  TypedTextDatabase.cpp
+LINK : fatal error LNK1104: nie można otworzyć pliku „..\..\touchgfx\\lib\win\msvs\libtouchgfx_v142_debug.lib”
